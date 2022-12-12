@@ -1,0 +1,42 @@
+body{
+    background-color: #0A22F4;
+}
+.title{
+    text-align: left;
+    font: normal normal bold 32px/39px Helvetica Neue;
+    color: #FFFFFF;
+    top: 5729px;
+    left: 240px;
+    right: 240px;
+    width: 162px;
+    height: 38px;
+    margin-top: 265px;
+    margin-left: 240px;
+}
+.p{
+    top: 5797px;
+    left: 240px;
+    width: 463px;
+    height: 99px;
+    text-align: left;
+    font: normal normal normal 16px/26px HelveticaNeueLTGEOW82-55Rm;
+    margin-top: 0px;
+    margin-left: 240px;
+    color: #FFFFFF;
+    display: inline-block;
+}
+.p2{
+    margin-left: 513px;
+    color: #FFFFFF;
+    display: inline-block;
+    margin-bottom: 81px;
+}
+.p3{
+    text-align: left;
+    font: normal normal bold 16px/19px Helvetica Neue;
+    color: #FFFFFF;
+    top: 5827px;
+    left: 1216px;
+    height: 19px;
+    margin-bottom: 81px;
+}
