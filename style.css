@@ -40,3 +40,27 @@ body{
     height: 19px;
     margin-bottom: 81px;
 }
+.ractangle{
+    margin-left: 240px;
+    display: inline-block;
+
+}
+.number{
+    top: 6243px;
+    left: 330px;
+    width: 178px;
+    height: 26px;
+    text-align: left;
+    font: normal normal bold 22px/27px Helvetica Neue;
+    color: #FFFFFF;
+    display: inline-block;
+    margin-left: 20px;
+}
+.button{
+    top: 6307px;
+    left: 1528px;
+    width: 151px;
+    height: 55px;
+    border-radius: 28px;
+    margin-left: 1528px; 
+}
